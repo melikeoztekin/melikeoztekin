@@ -22,5 +22,3 @@ I also design FreeLancer website 🆓.
 <a href="https://t.me/mlkztkn"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/melikeoztekin"><img src="https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 
-### GitHub Analytics 📊
-<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melikeoztekin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
