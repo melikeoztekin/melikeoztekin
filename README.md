@@ -1,12 +1,11 @@
 ### Hi! Welcome to My Github Profile 👋
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="500" height="320" />
 
-- 🔭 I am currently working on HTML, CSS, Javascirpt and ReactJS.
-- 🌱 I’m currently learning website design.
+<img align="right" alt="GIF" src="<img align="right" alt="GIF" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="500" height="320" />" width="500" height="320" />
+
+- 🔭 I am currently working on HTML, CSS, Javascript and React.
 - 👯 I’m looking to collaborate with other front-end developer 🎨 and web designers.👩‍💻
-- 🤔 I’m looking for help with front-end developer.
 - 💪 2022 goals: Learning React. ✨ To bring out quality projects.
-- ⚡ Fun fact: I love reading 📖, painting 🖌️, taking pictures 📷 and coding. 💻
+- ⚡ Fun fact: I love coding. 💻
 - 📫 How to reach me: https://www.linkedin.com/in/melikeoztekin/
 
 ### ⏲ What we are doing now:
