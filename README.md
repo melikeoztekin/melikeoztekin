@@ -1,6 +1,6 @@
 ### Hi! Welcome to My Github Profile 👋
 
-<img align="right" alt="GIF" src="<img align="right" alt="GIF" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="500" height="320" />" width="500" height="320" />
+<img align="right" alt="GIF" src="<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fweb-develop&psig=AOvVaw2auxWcJWyeZL2XDr4-pvg9&ust=1650930337196000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDgqvbwrfcCFQAAAAAdAAAAABAK" width="500" height="320" />" width="500" height="320" />
 
 - 🔭 I am currently working on HTML, CSS, Javascript and React.
 - 👯 I’m looking to collaborate with other front-end developer 🎨 and web designers.👩‍💻
