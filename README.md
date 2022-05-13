@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other front-end developer 🎨 and web designers.👩‍💻
 - 💪 2022 goals: Learning React. ✨ To bring out quality projects.
 - ⚡ Fun fact: I love coding. 💻
-- 📫 How to reach me: https://www.linkedin.com/in/melikeoztekin/
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/melikeoztekin/):heavy_check_mark:
 
 ### ⏲ What we are doing now:
 I am learning web design in a business 🚀.
