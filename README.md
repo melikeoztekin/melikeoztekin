@@ -13,10 +13,11 @@ I am learning programming from different sources 📃.
 I am improving myself.
 I also design FreeLancer website 🆓.
 ### 🔧 Languages and Tools:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DBFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DBFB"/> <img src="https://img.shields.io/badge/Angular-1976D2?style=for-the-badge&logo=angular&logoColor=DD0031"/> 
 ### 📩 Connect with me:
 <a href="mailto:melikeoztekin06@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/melikeoztekin/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@melikeoztekin"><img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://t.me/mlkztkn"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/melikeoztekin"><img src="https://img.shields.io/badge/-Hackerrank-000?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 
