@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on HTML, CSS, JavaScript, TypeScript, React and Angular.
 - 👯 I’m looking to collaborate with other front-end developer 🎨 and web designers.👩‍💻
-- 💪 2022 goals: Learning React & Angular. ✨ To bring out quality projects.
+- 💪 2022 goals: Learning React & Angular. ✨
 - ⚡ Fun fact: I love coding. 💻
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/melikeoztekin/):heavy_check_mark:
 
